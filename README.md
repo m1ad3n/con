@@ -76,6 +76,6 @@ The `exec_command` function in `shell.c` interprets user input and executes the 
 
 ## Conclusion
 
-### This container project provides a basic implementation of a file system and shell in C. It can be extended and enhanced by adding new features, supporting different file types, and improving the user interface. The README serves as a guide for building, running, and understanding the structure of the project.
+This container project provides a basic implementation of a file system and shell in C. It can be extended and enhanced by adding new features, supporting different file types, and improving the user interface. The README serves as a guide for building, running, and understanding the structure of the project.
 
-### Feel free to explore and modify the code to suit your specific needs. If you have any questions or issues, please contact the project contributors.
+Feel free to explore and modify the code to suit your specific needs. If you have any questions or issues, please contact the project contributors.
